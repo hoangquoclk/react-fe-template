@@ -6,6 +6,8 @@ import { ErrorBoundary } from 'react-error-boundary'
 import { NotFound } from '@/pages/NotFound'
 import { FallbackError } from './components/FallbackError'
 
+const a = ''
+
 function About() {
   return <>About</>
 }
