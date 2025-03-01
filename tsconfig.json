@@ -22,7 +22,7 @@
     "paths": {
       "@/*": [
         "src/*"
-      ],
+      ]
     },
     "plugins": [
       {
@@ -40,6 +40,8 @@
   "include": [
     "src/**/*",
     "src/types"
+    //    "vite.config.ts",
+    //    ".eslintrc"
   ],
   "exclude": [
     "node_modules",

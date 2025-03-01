@@ -1,3 +1,5 @@
 vite.config.ts
 tailwind.config.mjs
 postcss.config.js
+dist
+package.json
